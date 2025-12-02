@@ -27,10 +27,10 @@
     <string name="backup_restored">Záloha bola obnovená</string>
     <string name="invalid_keyphrase">Nesprávna kľúčová fráza</string>
     <string name="backup_completed">Dokončenie zálohovania</string>
-    <string name="restore_credentials">Import poverení</string>
+    <string name="restore_credentials">Importovať poverenia</string>
     <string name="credentials_backups">Záloha poverení</string>
     <string name="share_desc">Zdieľajte aplikáciu s ostatnými</string>
-    <string name="restore_credentials_desc">Obnovenie zo zálohy</string>
+    <string name="restore_credentials_desc">Obnoviť vaše heslá zo zálohy</string>
     <string name="send_feedback_desc">Nahlasovanie technických problémov alebo navrhovanie nových funkcií</string>
     <string name="about_us">O nás</string>
     <string name="about_us_desc">O nás Desc</string>
@@ -97,9 +97,9 @@
     <string name="default_password_length">Predvolená dĺžka hesla</string>
     <string name="secret_key">Tajný kľúč</string>
     <string name="keypass_backup">Zálohovanie app KeyPass</string>
-    <string name="google_backup">Zálohovanie v službe Google</string>
-    <string name="keepass_backup">Zálohovanie app KeePass</string>
-    <string name="keepass_backup_desc">Vyberte súbor KeePass CSV na import</string>
+    <string name="google_backup">Export hesiel z prehliadača Chrome/Google</string>
+    <string name="keepass_backup">Export CSV z KeePass</string>
+    <string name="keepass_backup_desc">Importovať heslá zo súboru CSV programu KeePass</string>
     <string name="invalid_secret_key">Neplatný tajný formát</string>
     <string name="invalid_csv_file">Neplatné CSV Aktuality</string>
     <string name="file_not_found">Súbor nebol nájdený (prosím skúste to znova)</string>
